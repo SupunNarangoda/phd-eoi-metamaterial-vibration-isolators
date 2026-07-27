@@ -27,9 +27,3 @@ My recent Advanced Certificate in AI explicitly trained me in Explainable and Re
 My exposure to Agentic AI also allows me to design an innovative, autonomous optimization framework to answer these complex structural questions.
 
 ---
-
-## Contact
-
-**Supun Narangoda**
-Email: s4150452@student.rmit.edu.au
-Phone: 0490693836 (Australia)
