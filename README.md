@@ -1,6 +1,6 @@
 ### Physics-Informed Machine Learning for Predicting Damping Behavior in 3D-Printed Metamaterial Vibration Isolators
 
-This repository provides verifiable evidence supporting my suitability for each of the project's core objectives, as referenced in my Expression of Interest to Dr Azmaputra Azis.
+This repository provides verifiable evidence supporting my suitability for each of the project's core objectives, as referenced in my Expression of Interest to Dr Azma Putra Azis.
 
 ---
 
